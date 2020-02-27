@@ -1,2 +1,2 @@
 # pandas-anaconda
-Repository for Data Analysis topics
+Learning Data Analysis from "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"
